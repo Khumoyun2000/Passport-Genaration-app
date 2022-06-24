@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/splashScreenFragment">
+
+    <fragment
+        android:id="@+id/splashScreenFragment"
+        android:name="com.example.a10.dars.sodda.passportgeneration.fragments.SplashScreenFragment"
+        android:label="fragment_splash_screen"
+        tools:layout="@layout/fragment_splash_screen" >
+        <action
+            android:id="@+id/action_splashScreenFragment_to_menuFragment"
+            app:destination="@id/menuFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/menuFragment"
+        android:name="com.example.a10.dars.sodda.passportgeneration.fragments.MenuFragment"
+        android:label="fragment_menu"
+        tools:layout="@layout/fragment_menu" >
+        <action
+            android:id="@+id/action_menuFragment_to_allCitizensFragment"
+            app:destination="@id/allCitizensFragment" />
+        <action
+            android:id="@+id/action_menuFragment_to_addCitizenFragment"
+            app:destination="@id/addCitizenFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/allCitizensFragment"
+        android:name="com.example.a10.dars.sodda.passportgeneration.fragments.AllCitizensFragment"
+        android:label="fragment_all_citizens"
+        tools:layout="@layout/fragment_all_citizens" >
+        <action
+            android:id="@+id/action_allCitizensFragment_to_aboutCitizenFragment"
+            app:destination="@id/aboutCitizenFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/addCitizenFragment"
+        android:name="com.example.a10.dars.sodda.passportgeneration.fragments.AddCitizenFragment"
+        android:label="fragment_add_citizen"
+        tools:layout="@layout/fragment_add_citizen" />
+    <fragment
+        android:id="@+id/aboutCitizenFragment"
+        android:name="com.example.a10.dars.sodda.passportgeneration.fragments.AboutCitizenFragment"
+        android:label="fragment_about_citizen"
+        tools:layout="@layout/fragment_about_citizen" />
+</navigation>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Khumoyun/pdp.6-module/6 modul vazifalari/7 dars/1vazifa/PassportGeneration/app/src/main/res/drawable/button_background.xml" value="0.158" />
+        <entry key="..\:/Khumoyun/pdp.6-module/6 modul vazifalari/7 dars/1vazifa/PassportGeneration/app/src/main/res/drawable/ic_baseline_arrow_back_ios_new_24.xml" value="0.149" />
+        <entry key="..\:/Khumoyun/pdp.6-module/6 modul vazifalari/7 dars/1vazifa/PassportGeneration/app/src/main/res/drawable/ic_baseline_search_24.xml" value="0.157" />
+        <entry key="..\:/Khumoyun/pdp.6-module/6 modul vazifalari/7 dars/1vazifa/PassportGeneration/app/src/main/res/layout/dialog_layout.xml" value="0.33" />
+        <entry key="..\:/Khumoyun/pdp.6-module/6 modul vazifalari/7 dars/1vazifa/PassportGeneration/app/src/main/res/layout/drop_down_item.xml" value="0.18645833333333334" />
+        <entry key="..\:/Khumoyun/pdp.6-module/6 modul vazifalari/7 dars/1vazifa/PassportGeneration/app/src/main/res/layout/fragment_about_citizen.xml" value="0.18177083333333333" />
+        <entry key="..\:/Khumoyun/pdp.6-module/6 modul vazifalari/7 dars/1vazifa/PassportGeneration/app/src/main/res/layout/fragment_add_citizen.xml" value="0.22" />
+        <entry key="..\:/Khumoyun/pdp.6-module/6 modul vazifalari/7 dars/1vazifa/PassportGeneration/app/src/main/res/layout/fragment_all_citizens.xml" value="0.1" />
+        <entry key="..\:/Khumoyun/pdp.6-module/6 modul vazifalari/7 dars/1vazifa/PassportGeneration/app/src/main/res/layout/fragment_base.xml" value="0.18645833333333334" />
+        <entry key="..\:/Khumoyun/pdp.6-module/6 modul vazifalari/7 dars/1vazifa/PassportGeneration/app/src/main/res/layout/fragment_citizens_information.xml" value="0.18177083333333333" />
+        <entry key="..\:/Khumoyun/pdp.6-module/6 modul vazifalari/7 dars/1vazifa/PassportGeneration/app/src/main/res/layout/fragment_menu.xml" value="0.1" />
+        <entry key="..\:/Khumoyun/pdp.6-module/6 modul vazifalari/7 dars/1vazifa/PassportGeneration/app/src/main/res/layout/fragment_splash_screen.xml" value="0.9" />
+        <entry key="..\:/Khumoyun/pdp.6-module/6 modul vazifalari/7 dars/1vazifa/PassportGeneration/app/src/main/res/layout/rv_item.xml" value="0.34854771784232363" />
+        <entry key="..\:/Khumoyun/pdp.6-module/6 modul vazifalari/7 dars/1vazifa/PassportGeneration/app/src/main/res/menu/my_menu.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
